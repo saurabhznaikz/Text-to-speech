@@ -3,6 +3,9 @@
 ## About this project
 This project is used to convert a text into a audio file, which we can play to listen
 
+## Project report
+To understand the project completely please click [Detailed project report](https://github.com/saurabhznaikz/Text-to-speech/blob/main/TexttoSpeech.pdf)
+
 ## How to run the project
 Clone the repository
 ```bash
