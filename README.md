@@ -1,5 +1,6 @@
 # Text-to-speech
 
+![](https://user-images.githubusercontent.com/52929512/193519022-595a8b13-fc6e-4bae-a34c-61737a7aa5d0.gif)
 ## About this project
 This project is used to convert a text into a audio file, which we can play to listen
 
